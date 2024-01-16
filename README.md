@@ -1,9 +1,9 @@
 ### Hi there 👀
 
 
-- 👨‍💻 I'm developing myself in the field of Front-End Developer.
-- 🎨 I'm also interested in UI / UX design and I produce content in this field.
-- 📷 In my spare time, I try to learn something in the field of Photography.
+- 👨‍💻 I am interested in Front End and Back End Development.
+- 🎨 I also create studies and content in the field of UX/UI.
+- 📷 I take photos as a hobby in my spare time.
 
 
 ### Social
