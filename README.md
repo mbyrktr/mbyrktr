@@ -3,7 +3,6 @@
 
 - 👨‍💻 I am interested in Front End and Back End Development.
 - 🎨 I also create studies and content in the field of UX/UI.
-- 📷 I take photos as a hobby in my spare time.
 
 
 ### Social
