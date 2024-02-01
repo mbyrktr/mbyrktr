@@ -21,6 +21,7 @@
 
 <img align="left" alt="Html" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-right:10px;" />
 <img align="left" alt="Css" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://www.svgrepo.com/show/354310/sass.svg" style="margin-right:10px;" />
 <img align="left" alt="Js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right:10px;" />
 <img align="left" alt="Jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="margin-right:10px;" />
 <img align="left" alt="Php" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="margin-right:10px;" />
