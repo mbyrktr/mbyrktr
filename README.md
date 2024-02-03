@@ -27,7 +27,7 @@
 <img align="left" alt="Php" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="margin-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://www.svgrepo.com/show/353985/laravel.svg" style="margin-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right:10px;" />
+<!-- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right:10px;" /> -->
 <img align="left" alt="Tailwind-css" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="margin-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="margin-right:10px;" />
 <img align="left" alt="Adobe-xd" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="margin-right:10px;" />
